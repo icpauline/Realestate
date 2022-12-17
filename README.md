@@ -40,19 +40,6 @@ b) Visualize using appropriate chart type
 
 4. Perform correlation analysis for all the relevant variables by creating a heatmap. Describe your findings.
 
-## Data Pre-processing:
-
-1. The economic multivariate data has a significant number of measured variables. The goal is to find where the measured variables depend on a number of smaller unobserved common factors or latent variables. 2. Each variable is assumed to be dependent upon a linear combination of the common factors, and the coefficients are known as loadings. Each measured variable also includes a component due to independent      random variability, known as “specific variance” because it is specific to one variable. Obtain the common factors and then plot the loadings. Use factor analysis to find latent variables in our dataset and gain          insight into the linear relationships in the data. Following are the list of latent variables:
-
-• Highschool graduation rates
-
-• Median population age
-
-• Second mortgage statistics
-
-• Percent own
-
-• Bad debt expense
 
 ## Data Modeling :
 
